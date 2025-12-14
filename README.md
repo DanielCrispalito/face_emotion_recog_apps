@@ -55,7 +55,7 @@ The model is trained to classify the following emotions:
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/your-username/face_emotion_recog_apps.git
-cd face_emotion_recog_apps
+cd face_emotion_recog_realtime
 
 python -m venv venv
 source venv/bin/activate  # Linux / Mac
